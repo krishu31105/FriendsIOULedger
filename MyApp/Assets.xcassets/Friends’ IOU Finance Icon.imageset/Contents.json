@@ -1,11 +1,12 @@
 {
   "images" : [
     {
-      "filename" : "Friends’ IOU Finance Icon.png",
+      "filename" : "Friends’ IOU Finance Icon 1.png",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
+      "filename" : "Friends’ IOU Finance Icon.png",
       "idiom" : "universal",
       "scale" : "2x"
     },
